@@ -118,7 +118,7 @@ public class Calculator {
      * @param b
      * @return
      */
-    public double pow(double a, double b) { return 0; }
+    public double pow(double a, double b) { return Math.pow(a, b); }
 
 
 
